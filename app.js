@@ -2,8 +2,6 @@ function printstuff(stuff){
     console.log(stuff)
 }
 
-//printstuff("Prueba ok");
-
 function mainfunction(anotherfunction,value){
     anotherfunction(value);
 }
